@@ -1,0 +1,17 @@
+public class Room{
+private int area;
+public Room(){
+}
+public void set Number (int num){
+number=num;
+}
+public void setArea (int a){
+area=a;
+}
+public void set AC Machine (Strings){
+acMachine=s;
+}
+public void displayData()
+{
+}
+}
